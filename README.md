@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fardil Ahamed</h1>
-<h3 align="center">Exploring the World of Coding & Creativity” “CSE Student | Tech Enthusiast | Problem Solver” “Passionate About Programming, Learning & Growth” “Turning Ideas Into Code, and Challenges Into Opportunities”</h3>
+<h3 align="center">Exploring the World of Coding & Creativity” “CSE Student</h3>
 
 - 🔭 I’m currently working on [Digital Dreamer](https://www.youtube.com/@fardilahamed3878)
 
