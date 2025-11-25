@@ -10,5 +10,5 @@ if (c > largest) largest = c;
 cout << "The largest number is: " << largest << endl;
 return 0;
 }
-Enter three numbers: 10 25 15
-Largest number: 25
+
+
